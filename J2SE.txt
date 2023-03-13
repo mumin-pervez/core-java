@@ -1,0 +1,33 @@
+J2SE (Java 2 Standard Edition)
+
+How Java Program works
+======================
+1. Write a doc file with .java extension like index.java
+2. Insert the java code in this file.
+3. Compile the file by using javac command (javac index.java)
+4. After compilation it will generate .class file which is called byte code.
+5. Now we need to execute the .class file (java class_name)
+6. This .class file execute by the JVM.
+
+JVM : Java Virtual Machine
+ - JVM is library of JRE.
+ - From byte code JVM will search for the specific file where the main method [public static void main(String[] args){} ] is written.
+
+JRE : Java Runtime Environment.
+
+JDK : Java Development Kit
+
+JDK >> JRE >> JVM
+
+Moto of Java : WORA (Write Once Run Anywhere)
+
+Variables
+=========
+ - 
+
+
+ 
+
+
+
+
